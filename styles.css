@@ -1,0 +1,24 @@
+html {
+    color: red;
+    font-family: 'Montserrat';}
+
+#nav {
+    background-color: white;
+    text-align: center;
+    color: red;
+    border: red 1px solid;
+    line-height: 34px;
+    z-index: 2;
+    position: fixed;
+    width: 99%;}
+
+#nav img {
+    float:left;
+    height: 35px;
+}    
+
+#nav a {
+    font-size: 20px;
+    color: red;
+    padding-left: 5px;
+    padding-right: 5px;}
