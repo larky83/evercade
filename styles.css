@@ -1,14 +1,13 @@
 html {
     color: red;
     font-family: 'Montserrat';
-line-height: 0.8px}
+    line-height: 0.8;}
 
 #nav {
     background-color: white;
     text-align: center;
     color: red;
     border: red 1px solid;
-    line-height: 1px;
     z-index: 2;
     position: fixed;
     width: 99%;}
@@ -22,17 +21,15 @@ line-height: 0.8px}
 
 p {
     color: black;
-    ;
 }
 
 .game {
     font-weight: bold;
 }
 
-br {
-    line-height: 10px;
-}
 
 @media only screen and (max-width: 480px) {
-.html {
-    font-size: 5;
+    html {
+        font-size: 8px;
+    }
+}
